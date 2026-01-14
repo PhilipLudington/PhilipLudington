@@ -11,11 +11,8 @@ I build games and game engines using systems languages. My focus is on performan
 
 ## Featured Projects
 
-### [Agentite](https://github.com/PhilipLudington/Agentite)
-A C game engine designed for AI agents and agentic game development. Built from the ground up to enable human-AI collaboration in game creation.
-
-### [AgentiteEditor](https://github.com/PhilipLudington/AgentiteEditor)
-A Unity-like editor for the Agentite engine, designed for seamless collaboration with AI assistants.
+### [Agentite](https://github.com/PhilipLudington/Agentite) / [AgentiteEditor](https://github.com/PhilipLudington/AgentiteEditor) / [AgentiteZ](https://github.com/PhilipLudington/AgentiteZ) / [AgentiteG](https://github.com/PhilipLudington/AgentiteG)
+Game engines and tools designed for AI-assisted development. Agentite (C), AgentiteZ (Zig), AgentiteG (Godot), and a Unity-like editor for seamless human-AI collaboration in game creation.
 
 ### [zig-msdf](https://github.com/PhilipLudington/zig-msdf)
 Multi-channel signed distance field library written in pure Zig. Useful for rendering crisp text and vector graphics in games.
@@ -23,20 +20,11 @@ Multi-channel signed distance field library written in pure Zig. Useful for rend
 ### [zig-png](https://github.com/PhilipLudington/zig-png)
 PNG decoding/encoding library implemented in pure Zig with no dependencies.
 
-### [Carbide](https://github.com/PhilipLudington/Carbide) / [CarbideZig](https://github.com/PhilipLudington/CarbideZig)
-Hardened development standards and patterns for C/C++ and Zig. Designed for safe, consistent code when working with AI-assisted development.
+### [Carbide](https://github.com/PhilipLudington/Carbide) / [CarbideZig](https://github.com/PhilipLudington/CarbideZig) / [CarbideUnity](https://github.com/PhilipLudington/CarbideUnity) / CarbideC3 (coming soon)
+Hardened development standards and patterns for C/C++, Zig, Unity/C#, and C3. Designed for safe, consistent code when working with AI-assisted development.
 
 ### [mcp-unity](https://github.com/CoderGamester/mcp-unity)
 Model Context Protocol plugin connecting Unity Editor with AI assistants (Claude, GPT, Gemini, and more).
-
-### [AgentiteZ](https://github.com/PhilipLudington/AgentiteZ)
-A Zig-based game engine built for and by AI.
-
-### [AgentiteG](https://github.com/PhilipLudington/AgentiteG)
-Native performance primitives for Godot, designed for AI-assisted development.
-
-### [CarbideUnity](https://github.com/PhilipLudington/CarbideUnity)
-AI-optimized coding standards and patterns for hardened Unity/C# game development.
 
 ## Games in Development
 
