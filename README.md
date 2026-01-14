@@ -20,7 +20,7 @@ Multi-channel signed distance field library written in pure Zig. Useful for rend
 ### [zig-png](https://github.com/PhilipLudington/zig-png)
 PNG decoding/encoding library implemented in pure Zig with no dependencies.
 
-### [Carbide](https://github.com/PhilipLudington/Carbide) / [CarbideZig](https://github.com/PhilipLudington/CarbideZig) / [CarbideUnity](https://github.com/PhilipLudington/CarbideUnity) / CarbideC3 (coming soon)
+### [Carbide](https://github.com/PhilipLudington/Carbide) / [CarbideZig](https://github.com/PhilipLudington/CarbideZig) / [CarbideUnity](https://github.com/PhilipLudington/CarbideUnity) / [CarbideC3](https://github.com/PhilipLudington/CarbideC3)
 Hardened development standards and patterns for C/C++, Zig, Unity/C#, and C3. Designed for safe, consistent code when working with AI-assisted development.
 
 ### [mcp-unity](https://github.com/CoderGamester/mcp-unity)
