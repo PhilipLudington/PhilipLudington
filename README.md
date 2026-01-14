@@ -28,7 +28,7 @@ Model Context Protocol plugin connecting Unity Editor with AI assistants (Claude
 
 ## Games in Development
 
-### Crimson Crisis
+### [Crimson Crisis](https://www.crimsoncrisis.game)
 Currently in development. [Wishlist on Steam](https://store.steampowered.com/app/crimsoncrisis)
 
 ### [Stellar Throne](https://stellarthrone.games)
