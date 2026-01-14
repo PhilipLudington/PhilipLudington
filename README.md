@@ -1,4 +1,4 @@
-# Philip Ludington
+# Philip 'MrPhil' Ludington
 
 **Game Director | Software Engineer | Open Source Contributor**
 
@@ -29,13 +29,22 @@ Hardened development standards and patterns for C/C++ and Zig. Designed for safe
 ### [mcp-unity](https://github.com/CoderGamester/mcp-unity)
 Model Context Protocol plugin connecting Unity Editor with AI assistants (Claude, GPT, Gemini, and more).
 
+### [AgentiteZ](https://github.com/PhilipLudington/AgentiteZ)
+A Zig-based game engine built for and by AI.
+
+### [AgentiteG](https://github.com/PhilipLudington/AgentiteG)
+Native performance primitives for Godot, designed for AI-assisted development.
+
+### [CarbideUnity](https://github.com/PhilipLudington/CarbideUnity)
+AI-optimized coding standards and patterns for hardened Unity/C# game development.
+
 ## Games in Development
 
 ### Crimson Crisis
 Currently in development. [Wishlist on Steam](https://store.steampowered.com/app/crimsoncrisis)
 
-### Stellar Throne
-A grand strategy game being built with the Agentite engine. Features a simulation engine with 52x performance improvements through recent optimizations.
+### [Stellar Throne](https://stellarthrone.games)
+A 4X strategy game being built with the Agentite engine and Unity.
 
 ## Currently Working On
 
@@ -47,7 +56,7 @@ A grand strategy game being built with the Agentite engine. Features a simulatio
 
 - X: [@mrphilgames](https://x.com/mrphilgames)
 - Website: [MrPhilGames.com](https://mrphilgames.com)
-- Agentic Game Development: [AgenticGameDevs.com](https://agenticgamedevs.com)
+- Agentic Game Development: [AgenticGameDevs.com](https://www.agenticgamedevs.com)
 
 ---
 
