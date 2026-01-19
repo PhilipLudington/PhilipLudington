@@ -2,12 +2,12 @@
 
 **Game Director | Software Engineer | Open Source Contributor**
 
-I build games and game engines using systems languages. My focus is on performance-critical code and exploring modern alternatives to C/C++.
+I build games, game engines, and developer tools using systems languages. My focus is on agentic development and creating tools for AI-assisted workflows, especially with Claude Code.
 
 ## Tech Stack
 
-- **Languages:** C, Zig, C3, C#
-- **Focus:** Game development, engine architecture, agentic game development
+- **Languages:** Klar, C, Zig, C3, C#
+- **Focus:** Agentic development, Claude Code tooling, game engines
 
 ## Featured Projects
 
@@ -45,9 +45,11 @@ A 4X strategy game being built with the Agentite engine and Unity.
 
 ## Currently Working On
 
-- **Agentite** - Building a game engine from scratch in C, optimized for AI-assisted development
-- Exploring **Zig** and **C3** as modern alternatives to C/C++ for game development
-- **Carbide** frameworks - Hardened development standards for safe AI-assisted coding
+- **Klar** - A programming language designed for Claude Code and AI-assisted development
+- **Chronicle** - Changelog generator with Claude Code skill for AI-polished release notes
+- **Agentite** - Game engines optimized for agentic development across C, Zig, C3, and Godot
+- **Koda Terminal** - Terminal tooling built in Zig
+- **zig-msdf** - Multi-channel signed distance field library in pure Zig
 
 ## Get in Touch
 
