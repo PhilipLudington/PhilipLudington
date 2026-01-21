@@ -6,13 +6,13 @@ I build games, game engines, and developer tools using systems languages. My foc
 
 ## Tech Stack
 
-- **Languages:** Klar, C, Zig, C3, C#
+- **Languages:** Klar, Kira, C, Zig, C3, C#
 - **Focus:** Agentic development, Claude Code tooling, game engines
 
 ## Featured Projects
 
-### [Agentite](https://github.com/PhilipLudington/Agentite) / [AgentiteEditor](https://github.com/PhilipLudington/AgentiteEditor) / [AgentiteZ](https://github.com/PhilipLudington/AgentiteZ) / [AgentiteG](https://github.com/PhilipLudington/AgentiteG) / [AgentiteC3](https://github.com/PhilipLudington/AgentiteC3)
-Game engines and tools designed for AI-assisted development. Agentite (C), AgentiteZ (Zig), AgentiteC3 (C3), AgentiteG (Godot), and a Unity-like editor for seamless human-AI collaboration in game creation.
+### [Agentite](https://github.com/PhilipLudington/Agentite) / [AgentiteC](https://github.com/PhilipLudington/AgentiteC) / [AgentiteEditor](https://github.com/PhilipLudington/AgentiteEditor) / [AgentiteZ](https://github.com/PhilipLudington/AgentiteZ) / [AgentiteG](https://github.com/PhilipLudington/AgentiteG) / [AgentiteC3](https://github.com/PhilipLudington/AgentiteC3)
+Game engines and tools designed for AI-assisted development. Agentite (Klar), AgentiteC (C), AgentiteZ (Zig), AgentiteC3 (C3), AgentiteG (Godot), and a Unity-like editor for seamless human-AI collaboration in game creation.
 
 ### [zig-msdf](https://github.com/PhilipLudington/zig-msdf)
 Multi-channel signed distance field library written in pure Zig. Useful for rendering crisp text and vector graphics in games.
@@ -26,11 +26,20 @@ Hardened development standards and patterns for C/C++, Zig, Unity/C#, and C3. De
 ### [Klar](https://github.com/PhilipLudington/Klar) / [MCP-Klar](https://github.com/PhilipLudington/MCP-Klar) / [Klar-Toolkit](https://github.com/PhilipLudington/Klar-Toolkit)
 A programming language designed for Claude Code and AI-assisted development, written in Zig. Includes an MCP server for AI integration and hardened development standards.
 
+### [Kira](https://github.com/PhilipLudington/Kira) / [Kira-Toolkit](https://github.com/PhilipLudington/Kira-Toolkit) / [kira-pcl](https://github.com/PhilipLudington/kira-pcl) / [kira-json](https://github.com/PhilipLudington/kira-json)
+A functional programming language with explicit types and tracked effects, designed for AI code generation. Includes hardened development standards and supporting libraries.
+
+### [Sanna](https://github.com/PhilipLudington/Sanna)
+Specification language for AI-assisted development with formal verification, confidence tracking, and provenance.
+
+### [GameDevelopmentBenchmark](https://github.com/PhilipLudington/GameDevelopmentBenchmark)
+A benchmark suite for evaluating AI model capabilities in game development tasks, inspired by SWE-Bench.
+
 ### [Chronicle](https://github.com/PhilipLudington/Chronicle)
 A Zig CLI changelog generator that parses conventional commits and outputs structured entries, with a Claude Code skill wrapper for AI-polished release notes.
 
-### [Koda](https://github.com/PhilipLudington/Koda) / [libkoda-terminal](https://github.com/PhilipLudington/libkoda-terminal)
-Koda Terminal and its supporting Zig library for terminal features and functionality.
+### [libkoda-terminal](https://github.com/PhilipLudington/libkoda-terminal)
+A Zig library of features and functionality used by the Koda Terminal.
 
 ### [mcp-unity](https://github.com/CoderGamester/mcp-unity)
 Model Context Protocol plugin connecting Unity Editor with AI assistants (Claude, GPT, Gemini, and more).
@@ -46,9 +55,11 @@ A 4X strategy game being built with the Agentite engine and Unity.
 ## Currently Working On
 
 - **Klar** - A programming language designed for Claude Code and AI-assisted development
+- **Kira** - A functional programming language with explicit types and tracked effects for AI code generation
+- **Agentite** - Game engines optimized for agentic development across Klar, C, Zig, C3, and Godot
+- **GameDevelopmentBenchmark** - Benchmark suite for evaluating AI capabilities in game development
+- **Sanna** - Specification language for AI-assisted development with formal verification
 - **Chronicle** - Changelog generator with Claude Code skill for AI-polished release notes
-- **Agentite** - Game engines optimized for agentic development across C, Zig, C3, and Godot
-- **Koda Terminal** - Terminal tooling built in Zig
 - **zig-msdf** - Multi-channel signed distance field library in pure Zig
 
 ## Get in Touch
